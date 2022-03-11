@@ -22,4 +22,9 @@ function save() {
     
     console.log(count)
 }
+    for(let count = 0;count <= 10;count++){
+        console.log(count);
+        number++
+    }
+        
     
