@@ -1,0 +1,49 @@
+body{
+    background-image: url("pexels-marcos-araujo-1824169.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+
+
+h1{
+    color: rgb(26, 24, 24);
+    background-color: rgb(65, 133, 110);
+    border-radius: 5px;
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2{
+    display: flexbox;
+    color: rgb(0, 0, 0);
+    background-color: rgb(65, 133, 110);
+    font-size: 50px;
+    border-radius: 5px;
+    width: 200px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+
+}
+
+#increment-btn{
+    background: darkred;
+
+}
+
+#save-btn{
+    background: darkgreen;
+}
